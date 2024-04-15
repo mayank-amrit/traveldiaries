@@ -1,0 +1,120 @@
+* {
+    font-family: Georgia;
+    color: whitesmoke;
+    background-color: black;
+}
+
+nav li {
+    display: inline-block;
+    width: 24%
+}
+
+nav {
+    background-color: black;
+    padding-left: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid azure;
+    position: static;
+}
+
+button {
+    height: 30px;
+    width: 250px;
+    color: black;
+    font-style: bold;
+    background-color: azure;
+    border-radius: 10px;
+}
+
+#mallroad, #pahari, #zara, #yellow, #green {
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+#header {
+    font-size: 60px;
+    text-align: center;
+    color: bisque;
+}
+
+p {
+    font-style: italic;
+    font-weight: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+div {
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    color: cornsilk;
+}
+
+h3 {
+    font-size: 30px;
+    color: cornsilk;
+}
+
+figcaption {
+    font-size: 15px;
+    font-style: italic;
+    color: blanchedalmond;
+    padding-top: 12px;
+}
+
+#declaration {
+    font-weight: 25px;
+    color: blanchedalmond;
+    font-style: italic;
+}
+
+#Mussoorie {
+    border: 1px solid seashell;
+    margin: 50px 75px;
+}
+
+#Dehradun  {
+    border: 1px solid seashell;
+    margin: 50px 75px;
+}
+
+#Haridwar  {
+    border: 1px solid seashell;
+    margin: 50px 75px;
+    display: inline-block;
+}
+
+#Rishikesh  {
+    border: 1px solid seashell;
+    margin: 50px 75px;
+}
+
+#welcome {
+    display: block;
+    
+}
+
+#ganges, #coolguy {
+    display: inline-block;
+}
+
+footer li {
+    display: inline-block;
+    width: 24%
+}
+
+footer {
+    border-top: 1px solid azure;
+    text-align: center;
+}
+
+button:hover {
+    background-color: lightsteelblue;
+}
